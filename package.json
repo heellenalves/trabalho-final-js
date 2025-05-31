@@ -1,0 +1,19 @@
+{
+  "name": "pgats-trabalho-final",
+  "version": "1.0.0",
+  "main": "trabalho.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^11.5.0"
+  }
+}
